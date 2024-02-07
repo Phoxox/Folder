@@ -1,4 +1,4 @@
-//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
+//2/6/2024-以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
   "warningText": "永久免费",
   "sites": [
@@ -1177,6 +1177,8 @@
         "战争片"
       ]
     },
+    {"key":"光速资源","name":"光速资源(切)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"闪电资源","name":"闪电资源(切)","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {
       "key": "apv2_瑞丰",
       "name": "⛄┃瑞丰┃2K",
