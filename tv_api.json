@@ -1177,8 +1177,6 @@
         "战争片"
       ]
     },
-    {"key":"光速资源","name":"光速资源(切)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"闪电资源","name":"闪电资源(切)","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {
       "key": "apv2_瑞丰",
       "name": "⛄┃瑞丰┃2K",
